@@ -3,6 +3,8 @@
 
 An unofficial dump of the data behind [titledrops.net](https://titledrops.net), for bulk analysis.
 
+**NOTICE:** The JSON data has been moved to the [official Titledrops repository](https://github.com/dominikus/titledrops.net), where they also published the original TSV!
+
 Why
 ===
 
